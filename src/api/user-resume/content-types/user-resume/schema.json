@@ -68,6 +68,9 @@
       "type": "component",
       "repeatable": true,
       "component": "skills.skills"
+    },
+    "templateId": {
+      "type": "integer"
     }
   }
 }
